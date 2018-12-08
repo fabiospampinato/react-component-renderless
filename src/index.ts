@@ -3,7 +3,7 @@
 
 import * as React from 'react';
 
-/* REACT NO RENDER */
+/* REACT COMPONENT RENDERLESS */
 
 class Component<P = {}, S = {}, SS = any> extends React.Component<P, S, SS> {
 
