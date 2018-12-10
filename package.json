@@ -29,7 +29,7 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "render": "*"
+    "react": "*"
   },
   "devDependencies": {
     "@types/node": "^10.9.4",
